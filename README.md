@@ -1,4 +1,4 @@
-Work Vectorization
+# Work Vectorization
 
 ### Course Assignment in Intro to Natural Language Processing (CS7.401) | Spring 2024
 
